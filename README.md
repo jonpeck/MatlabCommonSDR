@@ -1,2 +1,2 @@
 # MatlabCommonSDR
-Common SDR MATLAB code for SDR
+Common MATLAB code for SDR
